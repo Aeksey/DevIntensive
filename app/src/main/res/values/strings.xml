@@ -1,3 +1,43 @@
 <resources>
-    <string name="app_name">DevIntensive</string>
+    <string name="app_name">Кузнецов Алексей</string>
+
+    <string name="mytext">
+        Lorem ipsum dolor sit\n
+        amet, consectetur adipiscing\n
+        elit. Donec imperdiet leo\n
+        felis, non ultricies\n
+        mauris vulputate sit\n
+        amet. Vivamus metus justo,\n
+        egestas vel eros sed,\n
+        posuere tristique lorem.\n
+        Pellentesque id dolor ut\n
+        massa pharetra tincidunt\n
+        et ut mauris. Nulla a nisl\n
+        libero. Pellentesque venenatis\n
+        eu mi sodales pulvinar.\n
+        Nunc nec tellus commodo,\n
+        vulputate leo a, commodo\n
+        urna. Donec ultricies maximus\n
+        orci sit amet faucibus.\n
+        Suspendisse potenti. Fusce non\n
+        tempus eros. Integer vel\n
+        dui tortor. Duis tincidunt.\n
+        lorem sem, id ultrices felis\n
+        congue at.
+    </string>
+
+    <string name="c1">
+        5\n
+        Реййтинг
+    </string>
+
+    <string name="c2">
+        5\n
+        Написано строк кода
+    </string>
+
+    <string name="c3">
+        5\n
+        Проектов
+    </string>
 </resources>
