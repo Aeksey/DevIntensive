@@ -28,7 +28,8 @@
 
     <string name="c1">
         5\n
-        Реййтинг
+        \n
+        Рейтинг
     </string>
 
     <string name="c2">
@@ -38,6 +39,7 @@
 
     <string name="c3">
         5\n
+        \n
         Проектов
     </string>
 </resources>
